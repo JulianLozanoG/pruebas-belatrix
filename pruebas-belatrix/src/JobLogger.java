@@ -108,7 +108,7 @@ connection = DriverManager.getConnection("jdbc:" + dbParams.get("dbms") + "://" 
 
 + ":" + dbParams.get("portNumber") + "/", connectionProps); 
 
- 
+//Kind of errrors
 
 int t = 0; 
 
